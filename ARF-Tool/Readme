@@ -1,6 +1,10 @@
 ARF Tool for automatic extraction and formalisation of input requirements.
+Tool exist in: https://www.dropbox.com/sh/hyixhbwrfiv4k9o/AABpI1nOd62HX_N3QlTTXmjMa?dl=0
 
 ============================================================================
 Mac prerequist steps:
 1- downlaoad WordNet 3.1 and add the WordNet folder to "/usr/local/Cellar" on your machine
-2- download swiple "swipl-7.7.20" , then add libs exist in folder "x86_64-darwin17.7.0" to "/Library/Java/Extension" on your mach
+2- download swiple "swipl-7.7.20" , then add libs exist in folder "x86_64-darwin17.7.0" to "/Library/Java/Extension" on your mac
+3- download ARF zip file and extract in "/Users/" folder on your mac
+4- open your terminal and "cd /Users"
+5- to run the tool write "java -jar ARCFApp.jar"
